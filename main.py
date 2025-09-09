@@ -1852,7 +1852,7 @@ def render_html_content(
     <body>
         <div class="container">
             <div class="header">
-                <div class="header-title">热点新闻分析</div>
+                <div class="header-title">热点新闻</div>
                 <div class="header-info">
                     <div class="info-item">
                         <span class="info-label">报告类型</span>
